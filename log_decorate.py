@@ -1,5 +1,5 @@
 from functools import wraps
-import logging 
+import logging
 
 
 def logged(level, name=None, message=None):
